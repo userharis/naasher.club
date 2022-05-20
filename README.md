@@ -8,4 +8,4 @@ Contributions are welcome. Please see [contributing.md](./contributing.md)
 
 ---
 
-Copyright (c) 2022 Muhammad Haris <userharis@naasher.club>
+Copyright &copy; 2022 Muhammad Haris <userharis@naasher.club>
